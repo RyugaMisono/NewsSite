@@ -64,3 +64,10 @@ ul {
 .bottom p {
     margin-bottom: 1px;
 }
+
+@media screen and (max-width: 480px) {
+    .container {
+        width: 100%;
+        margin: auto;
+    }
+}
